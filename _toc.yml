@@ -29,7 +29,13 @@
       - file: papers/submission15
       - file: papers/submission17
       - file: papers/submission19
-      - file: papers/submission22      
+      - file: papers/submission22
+      - file: papers/submission24
+      - file: papers/submission25
+      - file: papers/submission26
+      - file: papers/submission28
+      - file: papers/submission30
+      - file: papers/submission31
       - file: papers/submission38
   - file: teaching_material/README
     sections:
