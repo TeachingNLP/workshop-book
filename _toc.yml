@@ -1,0 +1,36 @@
+- file: introduction
+  numbered: false
+  
+- part: Things you should know
+  chapters:    
+  - file: schedule
+
+- part: Participatory activities
+  chapters:
+  - file: panels/teaching-challenges.md
+  - file: panels/core-topics.md  
+
+- part: Keynote talks
+  chapters:
+  - file: keynotes/ines_montani.md
+  - file: keynotes/jason_eisner.md
+
+- part: Panel discussions
+  chapters:
+  - file: panels/core_concepts.md
+  - file: panels/industry.md
+
+- part: Papers and Teaching Material
+  chapters:
+  - file: papers/README
+    sections:
+      - file: papers/submission13
+      - file: papers/submission14
+      - file: papers/submission38
+  - file: teaching_material/README
+    sections:
+      - file: teaching_material/submission12
+      - file: teaching_material/submission27      
+      - file: teaching_material/submission36
+      - file: teaching_material/submission37      
+      
