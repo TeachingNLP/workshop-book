@@ -1,6 +1,8 @@
+![](logo.png)
+
 # Welcome 
 
-Welcome to the fifth workshop on Teaching NLP Jupyter book! Here you will find all necessary information related to the workshop. 
+Welcome to the Fifth Workshop on Teaching NLP Jupyter book! Here you will find all necessary information related to the workshop. 
 
 ## Goals
 
