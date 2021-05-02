@@ -30,6 +30,7 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: false
+  home_page_in_navbar: false 
 
 parse:
   myst_enable_extensions:
