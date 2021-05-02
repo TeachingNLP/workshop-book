@@ -26,6 +26,10 @@
     sections:
       - file: papers/submission13
       - file: papers/submission14
+      - file: papers/submission15
+      - file: papers/submission17
+      - file: papers/submission19
+      - file: papers/submission22      
       - file: papers/submission38
   - file: teaching_material/README
     sections:
