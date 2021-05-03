@@ -1,4 +1,4 @@
-A Balanced and Broadly Targeted Computational Linguistics Curriculum
+# A Balanced and Broadly Targeted Computational Linguistics Curriculum
 
 ### Authors
 
