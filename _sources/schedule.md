@@ -30,5 +30,5 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two day workshop.
 | 3:00pm - 4:00pm   |    Oral talks              |         TBD            |                     |  |
 | coffee/tea break  |                                  |                        |                     |  | 
 | 4:15pm - 5:15pm   |    Keynote II   |         TBD            | 
-| 5:15pm - 6:00pm   |    Weap up   |         TBD            | 
+| 5:15pm - 6:00pm   |    Wrap up   |         TBD            | 
                     
