@@ -7,8 +7,8 @@
 
 - part: Participatory activities
   chapters:
-  - file: panels/teaching-challenges.md
-  - file: panels/core-topics.md  
+  - file: activities/teaching-challenges.md
+  - file: activities/core-topics.md  
 
 - part: Keynote talks
   chapters:
