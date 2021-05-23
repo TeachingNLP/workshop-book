@@ -1,6 +1,6 @@
 # Interactive Assignments for Teaching Structured Neural NLP
 
-### Authors 
+## Authors 
 
 David Gaddy, Daniel Fried, Nikita Kitaev, Mitchell Stern, Rodolfo Corona, John DeNero and Dan Klein
 
