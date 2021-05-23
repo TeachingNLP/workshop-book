@@ -63,5 +63,7 @@
       - file: teaching_material/submission35      
       - file: teaching_material/submission36
       - file: teaching_material/submission37
-      
-      
+
+- part: Contact us
+  chapters:    
+  - file: contact
