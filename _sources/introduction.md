@@ -8,7 +8,7 @@ In this book you will find all necessary information related to the workshop.
 
 Here is the [workshop website](https://sites.google.com/view/teaching-nlp-workshop/call-for-papers). 
 
-### Goals
+## Goals
 
 Here are some high level goals for the workshop. By the end of of the workshop we hope to achieve the following. 
 
@@ -16,7 +16,7 @@ Here are some high level goals for the workshop. By the end of of the workshop w
 - Compile resources for NLP instructors that can last beyond the discussions held during the workshop.
 
 
-### Organizers 
+## Organizers 
 
 - David Jurgens, University of Michigan
 - Varada Kolhatkar, University of British Columbia

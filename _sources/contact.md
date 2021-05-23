@@ -1,4 +1,4 @@
-## Contact us
+# Contact us
 
 - Email: teaching-nlp-organizers@googlegroups.com. 
 - teachingNLP Slack workspace: TeachingNLP@NAACL2021@slack.com
