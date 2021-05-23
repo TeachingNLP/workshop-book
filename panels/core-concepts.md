@@ -11,4 +11,5 @@ The field of natural language processing (NLP) is growing rapidly with emergence
 3. Dan Jurafsky
 
 <img src="../img/isabelle.png" alt="Isabella" class="bg-primary" width="250px"> <img src="../img/emily.jpeg" alt="Emily" class="bg-primary" width="250px"/> 
+
 <img src="../img/yoav.jpeg" alt="Isabella" class="bg-primary" width="250px"> <img src="../img/dan.jpg" alt="Dan" class="bg-primary" width="220px"/>
