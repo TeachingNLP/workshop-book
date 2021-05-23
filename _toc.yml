@@ -5,13 +5,6 @@
   chapters:    
   - file: schedule
 
-- part: Participatory activities
-  chapters:
-  - file: activities/ice-breaker.md  
-  - file: activities/core-topics.md
-  - file: activities/industry-panel-follow-up.md      
-
-
 - part: Keynote talks
   chapters:
   - file: keynotes/ines_montani.md
@@ -21,6 +14,22 @@
   chapters:
   - file: panels/core_concepts.md
   - file: panels/industry.md
+
+- part: Participatory activities
+  chapters:
+  - file: activities/ice-breaker.md  
+  - file: activities/core-topics.md
+  - file: activities/industry-panel-follow-up.md      
+
+- part: Poster sessions
+  chapters:
+  - file: posters/poster1.md  
+  - file: posters/poster2.md
+
+- part: Oral talks
+  chapters:
+  - file: oral-talks/talk1.md  
+  - file: oral-talks/talk2.md
 
 - part: Papers and Teaching Material
   chapters:
