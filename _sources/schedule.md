@@ -2,7 +2,7 @@
 
 Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is scheduled to take place online from June 10th to June 11th, 2021. The schedule below will help you navigate the workshop. 
 
-### Day 1: Thursday, June 10th, 2021
+## Day 1: Thursday, June 10th, 2021
 
 **All times below are EST/EDT times. You may use [this tool](https://www.thetimezoneconverter.com/) for time zone conversion.**
 
@@ -22,7 +22,7 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 | 18:00 - 19:00  | [Keynote Address](keynotes/ines_montani.md)   |         TBD          |     Ines Montani (Explosion)    |  |
 
 
-### Day 2: Friday, June 11th, 2021
+## Day 2: Friday, June 11th, 2021
 
 | Time              |     Session                         |  How to connect?       | Speakers/Panelists | Moderator     |
 | :---------------- | :------------------------------ | :-------------:        | :----------------- | :----------------- |
