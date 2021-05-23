@@ -1,6 +1,6 @@
 # Introducing Information Retrieval for Biomedical Informatics Students
 
-### Authors 
+## Authors 
 
 Sanya Taneja, Richard Boyce, William Reynolds and Denis Newman-Griffis
 

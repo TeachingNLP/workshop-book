@@ -1,6 +1,6 @@
 # Learning about Word Vector Representations and Deep Learning through Implementing Word2vec
 
-### Author
+## Author
 
 David Jurgens
 

@@ -1,6 +1,6 @@
 # Flamingos and Hedgehogs in the Croquet-Ground: Teaching Evaluation of NLP Systems for Undergraduate Students
 
-### Author
+## Author
 
 Brielen Madureira
 

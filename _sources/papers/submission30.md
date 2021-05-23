@@ -1,6 +1,6 @@
 # A Balanced and Broadly Targeted Computational Linguistics Curriculum
 
-### Authors
+## Authors
 
 Emma Manning, Nathan Schneider and Amir Zeldes
 

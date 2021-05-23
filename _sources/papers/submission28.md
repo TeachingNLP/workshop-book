@@ -1,6 +1,6 @@
 # Teaching a Massive Open Online Course on Natural Language Processing
 
-### Authors
+## Authors
 
 Ekaterina Artemova, Murat Apishev, Denis Kirianov, Veronica Sarkisyan, Sergey Aksenov and Oleg Serikov
 

@@ -1,6 +1,6 @@
 # Learning How To Learn NLP: Developing Introductory Concepts Through Scaffolded Discovery
 
-### Authors
+## Authors
 
 Alexandra Schofield, Richard Wicentowski and Julie Medero
 

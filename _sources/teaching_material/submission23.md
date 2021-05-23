@@ -1,6 +1,6 @@
 # A dissemination workshop for introducing young Italian students to NLP
 
-### Authors
+## Authors
 
 Lucio Messina, Lucia Busso, Claudia Roberta Combei, Alessio Miaschi, Ludovica Pannitto, Gabriele Sarti and Malvina Nissim
 

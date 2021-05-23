@@ -3,7 +3,7 @@
 The field of natural language processing (NLP) is growing rapidly with emergence of new state-of-the-art methods almost every year. As educators in the field, we are faced to make many decisions as to _what_ to teach and _how_ to do it. The fast-paced nature of NLP brings unique challenges for curriculum design, and the immense growth of the field has lead to not just core NLP courses, but also classes and seminars focused on subareas such as natural language understanding and social applications. What fundamental concepts should we be teaching future NLP researchers and practitioners?
 
 
-### Panelists
+## Panelists
 
 1. Isabella Augenstein
 2. Emily M. Bender

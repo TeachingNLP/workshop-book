@@ -1,6 +1,6 @@
 # Applied Language Technology: NLP for the Humanities
 
-### Author
+## Author
 
 Tuomo Hiippala
 

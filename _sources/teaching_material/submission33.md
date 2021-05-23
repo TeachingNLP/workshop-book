@@ -1,6 +1,6 @@
 # From back to the roots into the gated woods: Deep learning for NLP
 
-### Authors
+## Authors
 
 Barbara Plank
 

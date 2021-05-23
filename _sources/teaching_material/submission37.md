@@ -1,6 +1,6 @@
 # Naive Bayes versus BERT: Jupyter notebook assignments for an introductory NLP course
 
-### Authors
+## Authors
 Jennifer Foster and Joachim Wagner
 
 ### Abstract

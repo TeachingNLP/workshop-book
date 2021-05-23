@@ -1,6 +1,6 @@
 # Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students
 
-### Authors 
+## Authors 
 
 Ludovica Pannitto, Lucia Busso, Claudia Roberta Combei, Lucio Messina, Alessio Miaschi, Gabriele Sarti and Malvina Nissim
 

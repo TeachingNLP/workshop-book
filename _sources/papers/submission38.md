@@ -1,6 +1,6 @@
 # Natural Language Processing 4 All (NLP4All): A New Online Platform for Teaching and Learning NLP Concepts
 
-### Authors
+## Authors
 Rebekah Baglini and Hermes Hjorth
 
 ### Abstract

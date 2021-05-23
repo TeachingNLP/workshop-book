@@ -1,6 +1,6 @@
 # Pedagogical Principles in the Online Teaching of Text Mining: A Retrospection
 
-### Authors
+## Authors
 
 Rajkumar Saini, György Kovács, Mohamadreza Faridghasemnia, Hamam Mokayed, Oluwatosin Adewumi, Pedro Alonso, Sumit Rakesh and Marcus Liwicki
 

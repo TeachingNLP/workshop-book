@@ -1,6 +1,6 @@
 # MiniVQA - A resource to build your tailored VQA competition
 
-### Author
+## Author
 
 Jean-Benoit Delbrouck
 

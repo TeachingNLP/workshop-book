@@ -2,7 +2,7 @@
 
 # Welcome 
 
-Welcome to the Fifth Workshop on Teaching NLP Jupyter book! 
+Welcome to the Fifth Workshop on Teaching NLP! 
 
 In this book you will find all necessary information related to the workshop. 
 

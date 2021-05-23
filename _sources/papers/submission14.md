@@ -1,6 +1,6 @@
 # On Writing a Textbook on Natural Language Processing
 
-### Author 
+## Author 
 Jacob Eisenstein
 
 ### Abstract
