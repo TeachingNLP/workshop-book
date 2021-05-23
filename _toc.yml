@@ -22,18 +22,12 @@
   - file: activities/core-topics.md
   - file: activities/industry-panel-follow-up.md      
 
-- part: Poster sessions
-  chapters:
-  - file: posters/poster1.md  
-  - file: posters/poster2.md
-
-- part: Oral talks
-  chapters:
-  - file: oral-talks/talk1.md  
-  - file: oral-talks/talk2.md
-
 - part: Papers and Teaching Material
   chapters:
+  - file: posters/poster1.md  
+  - file: posters/poster2.md  
+  - file: oral-talks/talk1.md  
+  - file: oral-talks/talk2.md  
   - file: papers/README
     sections:
       - file: papers/submission13
