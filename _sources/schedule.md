@@ -4,7 +4,7 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 
 ## Day 1: Thursday, June 10th, 2021
 
-**All times below are EST/EDT or UTC-4 times. You may use [this tool](https://www.thetimezoneconverter.com/) for time zone conversion.**
+**All times below are Eastern or UTC-04:00  times. You may use [this tool](https://www.thetimezoneconverter.com/) for time zone conversion.**
 
 | Time              |     Session                          |  How to connect?       | Speakers/Panelists | Moderator     |
 | :---------------- | :------------------------------   | :-------------:        | :----------------- | :----------------- |
