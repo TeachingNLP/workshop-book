@@ -1,4 +1,4 @@
-<img src="img/photo-NAACL2021.jpeg" alt="NAACL" class="bg-primary" width="200px" height="200px"/>
+<img src="img/photo-NAACL2021.png" alt="NAACL" class="bg-primary"/>
 
 # Welcome 
 
