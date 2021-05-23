@@ -1,1 +1,1 @@
-# Accepted papers
+# All accepted papers

@@ -1,6 +1,6 @@
 # Gaining Experience with Structured Data: Using the Resources of Dialog State Tracking Challenge 2
 
-### Author
+## Author
 Ronnie Smith
 
 ### Abstract

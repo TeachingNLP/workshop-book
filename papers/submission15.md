@@ -1,6 +1,6 @@
 # Teaching NLP outside Linguistics and Computer Science classrooms: Some challenges and some opportunities
 
-### Author
+## Author
 Sowmya Vajjala
 
 

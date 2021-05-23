@@ -1,6 +1,6 @@
 # An Immersive Computational Text Analysis Course for Non-Computer Science Students at Barnard College
 
-### Authors
+## Authors
 
 Adam Poliak and Jalisha Jenifer
 

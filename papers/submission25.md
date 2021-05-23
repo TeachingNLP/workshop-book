@@ -1,6 +1,6 @@
 # The Flipped Classroom model for teaching Conditional Random Fields in an NLP course
 
-### Authors
+## Authors
 
 Manex Agirrezabal
 

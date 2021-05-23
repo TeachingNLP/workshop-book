@@ -1,6 +1,6 @@
 # Learning PyTorch Through A Neural Dependency Parsing Exercise
 
-### Author
+## Author
 David Jurgens
 
 ### Abstract

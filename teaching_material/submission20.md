@@ -1,6 +1,6 @@
 # A Crash Course on Ethics for Natural Language Processing
 
-### Authors
+## Authors
 
 Annemarie Friedrich and Torsten Zesch
 

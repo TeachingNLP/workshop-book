@@ -1,6 +1,6 @@
 # The Online Pivot: Lessons Learned from Teaching a Text and Data Mining Course in Lockdown, Enhancing online Teaching with Pair Programming and Digital Badges
 
-### Authors
+## Authors
 
 Beatrice Alex, Clare Llewellyn, Pawel Orzechowski and Maria Boutchkova
 

@@ -1,6 +1,6 @@
 # Natural Language Processing for Computer Scientists and Data Scientists at a Large State University
 
-### Author
+## Author
 
 Casey Kennington
 

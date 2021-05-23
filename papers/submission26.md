@@ -1,6 +1,6 @@
 # A New Broad NLP Training from Speech to Knowledge
 
-### Authors
+## Authors
 
 Maxime Amblard and Miguel Couceiro
 
