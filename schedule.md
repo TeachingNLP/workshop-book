@@ -10,12 +10,12 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 | :---------------- | :------------------------------   | :-------------:        | :----------------- | :----------------- |
 | 10:00 - 10:15 | [Welcome and Workshop Overview](introduction.md)     |         TBD            |                     |  |
 | 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|         TBD            |                     |  | 
-| 10:45 - 11:45 | Poster Session 1                  |         TBD            |                     |  | 
+| 10:45 - 11:45 | [Poster Session 1](posters/poster1.md)                  |         TBD            |                     |  | 
 | 11:45 - 12:00 | Refreshment Break                 |                        |                     |                     |  | 
 | 12:00 - 13:00  | [Panel: What Should We Be Teaching?](panels/core-concepts.md)    |         TBD            |                     |  |
 | 13:00 - 14:00  | Meal Break                              |            |                     |  |
 | 14:00 - 15:00  | [Participatory Event 2](activities/core-topics.md)     |         TBD            |                     |  |
-| 15:00 - 16:00  | Poster Session 2  |         TBD            |                     |  |
+| 15:00 - 16:00  | [Poster Session 2](posters/poster2.md)   |         TBD            |                     |  |
 | 16:00 - 16:45  | [Participatory Event 3](activities/ice-breaker.md)  |         TBD            |                     |  |
 | 16:45 - 17:00  | Refreshment Break  |                     |                     |  |
 | 17:00 - 18:00  | Oral Presentations 1 |      TBD          |                     |  |
