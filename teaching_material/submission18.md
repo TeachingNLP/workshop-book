@@ -1,6 +1,6 @@
 # Contemporary NLP Modeling in Six Comprehensive Programming Assignments
 
-### Authors
+## Authors
 
 Greg Durrett, Jifan Chen, Shrey Desai, Tanya Goyal, Lucas Kabela, Yasumasa Onoe and Jiacheng Xu
 
