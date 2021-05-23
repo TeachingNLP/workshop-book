@@ -7,8 +7,10 @@
 
 - part: Participatory activities
   chapters:
-  - file: activities/teaching-challenges.md
-  - file: activities/core-topics.md  
+  - file: activities/ice-breaker.md  
+  - file: activities/core-topics.md
+  - file: activities/industry-panel-follow-up.md      
+
 
 - part: Keynote talks
   chapters:

@@ -2,11 +2,16 @@
 
 # Welcome 
 
-Welcome to the Fifth Workshop on Teaching NLP Jupyter book! Here you will find all necessary information related to the workshop. 
+Welcome to the Fifth Workshop on Teaching NLP Jupyter book! 
+
+In this book you will find all necessary information related to the workshop. 
+
+Here is the [workshop website](https://sites.google.com/view/teaching-nlp-workshop/call-for-papers). 
 
 ## Goals
 
 Here are some high level goals for the workshop. By the end of of the workshop we hope to achieve the following. 
 
 - Identify and document challenges in teaching and learning NLP in different settings.
-- Compile resources for instructors that can last beyond the discussions held on the day of the workshop.
+- Compile resources for NLP instructors that can last beyond the discussions held during the workshop.
+
