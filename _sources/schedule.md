@@ -31,5 +31,5 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 | 12:00 - 13:00 |  [Participatory Event 4](activities/industry-panel-follow-up.md) |         TBD            |                     |  |
 | 13:00 - 14:00  |    Meal Break                              |                        |                     |  | 
 | 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         TBD            |                     | Jason Eisner (Johns Hopkins University) |                    |  |
-| 15:00 - 16:00  |    Participatory Event 5              |         TBD            |                     |  |
+| 15:00 - 16:00  |    [Participatory Event 5]()            |         TBD            |                     |  |
 | 16:00 - 16:15   |   Closing Remarks              |         TBD            |                     |  |

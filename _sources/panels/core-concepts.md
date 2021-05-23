@@ -4,12 +4,10 @@ The field of natural language processing (NLP) is growing rapidly with emergence
 
 
 ## Panelists
+|               |                               |
+| :---------------- | :------------------------------   | 
+| <img src="../img/isabelle.png" alt="Isabella" class="bg-primary" width="250px"> | [**Isabelle Augenstein**](https://isabelleaugenstein.github.io/) is an associate professor in Computer Science at the University of Copenhagen. | 
+|<img src="../img/emily.jpeg" alt="Emily" class="bg-primary" width="250px"/> | [**Emily M. Bender**](https://faculty.washington.edu/ebender/index.html)  is a Professor of Linguistics at the University of Washington and Director of their professional master's program in computational linguistics.|
+|<img src="../img/yoav.jpeg" alt="Yoav" class="bg-primary" width="250px"> | [**Yoav Goldberg**](https://www.cs.bgu.ac.il/~yoavg/uni/) is a Senior Lecturer in Computer Science at Bar Ilan University. |
+| <img src="../img/dan.jpg" alt="Dan" class="bg-primary" width="220px"/> | [**Dan Jurafsky**](https://web.stanford.edu/~jurafsky/) is Professor of Linguistics and Professor of Computer Science at Stanford University. |
 
-1. Isabella Augenstein
-2. Emily M. Bender
-3. Yoav Goldberg
-3. Dan Jurafsky
-
-<img src="../img/isabelle.png" alt="Isabella" class="bg-primary" width="250px"> <img src="../img/emily.jpeg" alt="Emily" class="bg-primary" width="250px"/> 
-
-<img src="../img/yoav.jpeg" alt="Isabella" class="bg-primary" width="250px"> <img src="../img/dan.jpg" alt="Dan" class="bg-primary" width="220px"/>
