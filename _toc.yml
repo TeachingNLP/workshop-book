@@ -13,7 +13,7 @@
 
 - part: Panel discussions
   chapters:
-  - file: panels/core_concepts.md
+  - file: panels/core-concepts.md
   - file: panels/industry.md
 
 - part: Participatory activities
