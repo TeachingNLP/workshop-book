@@ -1,4 +1,7 @@
-# Jason Eisner
+# TBA
+
+
+## Speaker: Jason Eisner
 
 Jason is a computer science professor at Johns Hopkins University, and his research focuses on novel NLP methods. He is also the Director of Research at Semantic Machines.
 
