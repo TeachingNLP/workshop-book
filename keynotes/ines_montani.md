@@ -4,7 +4,7 @@ Working on natural language processing for real-world applications requires more
 
 ## Speaker: Ines Montani
 
-Ines Montani is the co-founder of [Explosion](https://explosion.ai/about), co-developer of [spaCy](https://spacy.io/) library for Natural Language Processing in Python, and lead developer of [Prodigy](https://prodi.gy/), a modern annotation tool powered by active learning. She is also a fellow at the Python Software Foundation. Check out her [Advanced NLP with spaCy](https://course.spacy.io/en/) interactive course. 
+[Ines Montani](https://ines.io/) is the co-founder of [Explosion](https://explosion.ai/about), co-developer of [spaCy](https://spacy.io/) library for Natural Language Processing in Python, and lead developer of [Prodigy](https://prodi.gy/), a modern annotation tool powered by active learning. She is also a fellow at the Python Software Foundation. Check out her [Advanced NLP with spaCy](https://course.spacy.io/en/) interactive course. 
 
 
 ```{image} ../img/ines.jpg
