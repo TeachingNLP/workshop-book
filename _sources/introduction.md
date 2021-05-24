@@ -4,16 +4,27 @@
 
 Welcome to the Fifth Workshop on Teaching NLP! 
 
-In this book you will find all necessary information related to the workshop. 
+In this Jupyter book you will find all the necessary information related to the workshop. 
 
-Here is the [workshop website](https://sites.google.com/view/teaching-nlp-workshop/call-for-papers). 
+## Why Teaching NLP workshop?
+
+The field of natural language processing (NLP) is growing rapidly with emergence of new state-of-the-art methods almost every year. As educators in the field, we are faced to make many decisions as to _what_ to teach and _how_ to do it. The fast-paced nature of NLP and popularity of NLP in different disciplines bring some unique challenges for curriculum design:  
+
+- What fundamental concepts should we be teaching future NLP researchers and practitioners? 
+- What kinds of paths through courses should we provide for students traversing an NLP-related degree? 
+- How should we tailor our courses for wider audiences (e.g., for students from social sciences, humanities, medicine, and statistics)? 
+- How do we scale our teaching for larger class sizes while preserving the accessibility of complex material?
+- How do we teach _resposible_ and _ethical_ use of NLP?
+
 
 ## Goals
 
-Here are some high level goals for the workshop. By the end of of the workshop we hope to achieve the following. 
+By the end of of the workshop we hope to achieve the following high level goals. 
 
-- Identify and document challenges in teaching and learning NLP in different settings.
-- Compile resources for NLP instructors that can last beyond the discussions held during the workshop.
+- Encourage a dialogue and collaboration between NLP educators and researchers in academia and industry to address the questions above.  
+- Identify and document challenges in teaching and learning NLP in different contexts.
+- Provide a forum to share teaching and learning methodologies and tools in NLP education. 
+- Compile resources for teaching and learning NLP  that can last beyond the discussions held during the workshop.
 
 
 ## Organizers 
@@ -23,3 +34,6 @@ Here are some high level goals for the workshop. By the end of of the workshop w
 - Lucy Li, University of California, Berkeley
 - Margot Mieskes, Darmstadt University of Applied Sciences
 - Ted Pedersen, University of Minnesota, Duluth
+
+Here is the [workshop website](https://sites.google.com/view/teaching-nlp-workshop/call-for-papers). 
+
