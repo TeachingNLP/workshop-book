@@ -9,8 +9,8 @@ When we design NLP courses in different contexts, many of us struggle with at le
 - How do we balance theory vs practice? How much detail is appropriate in the given context? For example, 
     - Do we go into the math of Latent Dirichlet Allocation model for topic modeling? 
     - Or is it more useful to show different practical considerations when training an LDA model on a large real-world dataset using a library such as `Gensim` and interpreting the topics appropriately?    
-    - Do we spend a full lecture on explaining the math and details of LSTMs or is this time better used if we show how do we train an LSTM using tools such as `PyTorch` and `TorchText` for text classification?  
-- How do we imbibe _responsible_ and _ethical_ use of NLP in students?  
+    - Do we spend a full lecture on explaining the math and details of LSTMs or is this time better used if we show them how do we train an LSTM for text classification using tools such as `PyTorch` and `TorchText`?  
+- How do we imbibe _responsible_ and _ethical_ use of NLP?  
 
 ## Panelists
 |               |                               |
