@@ -1,7 +1,16 @@
 # What do we teach in NLP courses?
 
-The field of natural language processing (NLP) is growing rapidly with emergence of new state-of-the-art methods almost every year. As educators in the field, we are faced to make many decisions as to _what_ to teach and _how_ to do it. The fast-paced nature of NLP brings unique challenges for curriculum design, and the immense growth of the field has lead to not just core NLP courses, but also classes and seminars focused on subareas such as natural language understanding and social applications. What fundamental concepts should we be teaching future NLP researchers and practitioners?
+When we design NLP courses in different contexts, many of us struggle with at least some of the following points.   
 
+- What models, tasks, topics, applications should we include or exclude from the course? For example, 
+    - Should we spend a lecture on hidden Markov models?  
+    - Should we include automatic speech recognition in the course? 
+    - Is it OK to skip semantic parsing and syntactic parsing? 
+- How do we balance theory vs practice? How much detail is appropriate in the given context? For example, 
+    - Do we go into the math of Latent Dirichlet Allocation model for topic modeling? 
+    - Or is it more useful to show different practical considerations when training an LDA model on a large real-world dataset using a library such as `Gensim` and interpreting the topics appropriately?    
+    - Do we spend a full lecture on explaining the math and details of LSTMs or is this time better used if we show how do we train an LSTM using tools such as `PyTorch` and `TorchText` for text classification?  
+- How do we imbibe _responsible_ and _ethical_ use of NLP in students?  
 
 ## Panelists
 |               |                               |
