@@ -35,5 +35,8 @@ By the end of of the workshop we hope to achieve the following high level goals.
 - Margot Mieskes, Darmstadt University of Applied Sciences
 - Ted Pedersen, University of Minnesota, Duluth
 
-Here is the [workshop website](https://sites.google.com/view/teaching-nlp-workshop/call-for-papers). 
 
+## Useful links
+
+- [Proceedings of the Fifth Workshop on Teaching NLP](https://www.aclweb.org/anthology/volumes/2021.teachingnlp-1/)
+- [Workshop website](https://sites.google.com/view/teaching-nlp-workshop)
