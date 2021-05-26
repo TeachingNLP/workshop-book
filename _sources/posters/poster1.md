@@ -1,4 +1,5 @@
 # Poster Session 1
+**Day 1: June 10th, 2021, 10:00 to 11:45 UTC-04:00 or ET**
 
 ## Long papers: Courses and curricula 
 
