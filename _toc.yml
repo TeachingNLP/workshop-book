@@ -6,7 +6,7 @@
   - file: schedule
   - file: contact  
 
-- part: Keynote talks
+- part: Keynotes
   chapters:
   - file: keynotes/ines_montani.md
   - file: keynotes/jason_eisner.md
@@ -21,6 +21,7 @@
   - file: activities/ice-breaker.md  
   - file: activities/core-topics.md
   - file: activities/industry-panel-follow-up.md      
+  - file: activities/feedback.md        
 
 - part: Papers and Teaching Material
   chapters:
