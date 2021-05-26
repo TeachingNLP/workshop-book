@@ -9,7 +9,7 @@ When we design NLP courses in different contexts, many of us struggle with at le
 - How do we balance theory vs practice? How much detail is appropriate in the given context? For example, 
     - Do we go into the details of Gibbs sampling when teaching Latent Dirichlet Allocation for topic modeling? 
     - Is it more useful to spend more time on different practical aspects such as hyperparameters of the model or evaluation and interpretation of the topics given by the model?
-    - How much time should we spend on teaching LSTMs vs implementing them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
+    - How much time should we spend on teaching LSTMs vs showing how to implement them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
     
 ## Panelists
 |               |                               |
