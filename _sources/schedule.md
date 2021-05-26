@@ -31,5 +31,5 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 | 12:00 - 13:00 |  [Participatory Event 4](activities/industry-panel-follow-up.md) |         TBA            | TBA |
 | 13:00 - 14:00  |    Meal Break                              |                        |                     |  | 
 | 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         TBA  | TBA  |
-| 15:00 - 16:00  |    Participatory Event 5            |         TBA            |   TBA |
+| 15:00 - 16:00  |    [Participatory Event 5](activities/feedback.md)          |         TBA            |   TBA |
 | 16:00 - 16:15   |   Closing Remarks              |         TBA            |     TBA |
