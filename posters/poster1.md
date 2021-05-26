@@ -20,7 +20,7 @@
 |[A dissemination workshop for introducing young Italian students to NLP](../teaching_material/submission23.md)|Lucio Messina, Lucia Busso, Claudia Roberta Combei, Alessio Miaschi, Ludovica Pannitto, Gabriele Sarti, Malvina Nissim |
 
 
-## Short papers: Tools and Assignments
+## Short papers: Tools and assignments
 
 | Title              |     Authors                          |
 | :---------------- | :------------------------------   | 
