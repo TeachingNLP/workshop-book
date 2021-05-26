@@ -4,8 +4,8 @@
 
 | Title              |     Authors                          |
 | :---------------- | :------------------------------   | 
-| [Pedagogical Principles in the Online Teaching of Text Mining: A Retrospection](../papers/submission19.md) | Rajkumar Saini, György Kovács, Mohamadreza Faridghasemnia, HamamMokayed, Oluwatosin Adewumi, Pedro Alonso, Sumit Rakesh, Marcus Liwicki | 
-| [Teaching a Massive Open Online Course on Natural Language Processing](../papers/submission28.md) | Ekaterina Artemova, Murat Apishev, Denis Kirianov, Veronica Sarkisyan, SergeyAksenov, Oleg Serikov |
+| [Pedagogical Principles in the Online Teaching of Text Mining: A Retrospection](../papers/submission19.md) | Rajkumar Saini, György Kovács, Mohamadreza Faridghasemnia, Hamam Mokayed, Oluwatosin Adewumi, Pedro Alonso, Sumit Rakesh, Marcus Liwicki | 
+| [Teaching a Massive Open Online Course on Natural Language Processing](../papers/submission28.md) | Ekaterina Artemova, Murat Apishev, Denis Kirianov, Veronica Sarkisyan, Sergey Aksenov, Oleg Serikov |
 | [Natural Language Processing 4 All (NLP4All): A New Online Platform for Teaching and Learning NLP Concepts](../papers/submission38.md) | Rebekah Baglini and Hermes Hjorth |
 | [A New Broad NLP Training from Speech to Knowledge](../papers/submission26.md)| Maxime Amblard and Miguel Couceiro |
 
