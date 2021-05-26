@@ -18,7 +18,7 @@
 | [Introducing Information Retrieval for Biomedical Informatics Students](../teaching_material/submission29.md) | Sanya Taneja, Richard Boyce, William Reynolds, Denis Newman-Griffis |
 
 
-## Short papers: Tools and Assignments
+## Short papers: Tools and assignments
 
 | Title              |     Authors                          |
 | :---------------- | :------------------------------   | 
