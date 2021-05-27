@@ -11,7 +11,7 @@ When we design NLP courses in different contexts, many of us struggle with at le
     - Is it more useful to spend more time on different practical aspects such as hyperparameters of the model or evaluation and interpretation of the topics given by the model?
     - How much time should we spend on teaching LSTMs vs showing how to implement them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
     
-**We would like to address your questions in the panel. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit?usp=sharing).**   
+**We would like to address some of your questions during the panel discussion. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit?usp=sharing).**   
     
 ## Panelists
 |               |                               |
