@@ -1,6 +1,6 @@
 # Oral Presentations 2
 
-## Long Papers: Courses and curricula 
+## Long papers: Courses and curricula 
 
 **Day 2: June 11th, 2021, 10:00 to 11:00 (UTC-04:00 or ET)**
 
