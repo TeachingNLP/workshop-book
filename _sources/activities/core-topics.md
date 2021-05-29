@@ -3,6 +3,10 @@
 - **Day 1: June 10th from 14:00 to 15:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom link]()
 
+## Related pre-workshop activity
+
+If you've not already done it, please fill out this [Google form](https://forms.gle/kqZLVpkBAdp7wrA29) when you get a chance. 
+
 ## Introduction 
 In this participatory activity, you will be creating course schedules for NLP courses targeted at different NLP learner persona. You will be randomly assigned to a group of size 3 to 5 and you will be working in breakout rooms. 
 
