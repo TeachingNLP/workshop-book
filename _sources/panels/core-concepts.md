@@ -1,5 +1,8 @@
 # What do we teach in NLP courses?
 
+- **Day 1: June 10th from 12:00 to 13:00 UTC-04:00 or ET**
+- **How to connect:** [Zoom link]()
+
 When we design NLP courses in different contexts, many of us struggle with at least some of the following points.   
 
 - What models, tasks, applications should we include or exclude from the course? For example: 
