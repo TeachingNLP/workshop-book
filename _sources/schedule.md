@@ -2,8 +2,6 @@
 
 Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is scheduled to take place online from June 10th to June 11th, 2021. The schedule below will help you navigate the workshop. 
 
-## Day 1: Thursday, June 10th, 2021
-
 ```{note}
 All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.org/wiki/UTC%E2%88%9204:00) times.
 ```
@@ -11,6 +9,8 @@ All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.o
 ```{note}
 Each session will have a primary facilitator (names in boldface) and a helper. If you have technical questions, please reach out to the helper first. 
 ```
+
+## Day 1: Thursday, June 10th, 2021
 
 | Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator(s)/Facilitator(s)  |
 | :---------------- | :------------------------------   | :----------------- | :----------------- |
