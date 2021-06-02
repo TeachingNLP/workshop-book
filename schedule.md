@@ -38,7 +38,7 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 | 12:00 - 13:00 |  [Participatory Event 4](activities/industry-panel-follow-up.md) |         TBA            | **Lucy Li**, Ted Pedersen |
 | 13:00 - 14:00  |    **Meal Break**                              |                        |                     |  | 
 | 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         TBA  | **David Jurgens**, Varada Kolhatkar  |
-| 15:00 - 16:00  |    [Participatory Event 5](activities/feedback.md)          |         TBA            |   **Ted Pedersen**, Margot Mieskes |
+| 15:00 - 16:00  |    [Participatory Event 5](activities/feedback.md)          |         TBA            |  **Margot Mieskes**, Ted Pedersen |
 | 16:00 - 16:15   |   Closing Remarks              |         TBA            |     **Ted Pedersen** |
 
 
