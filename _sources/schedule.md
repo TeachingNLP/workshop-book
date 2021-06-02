@@ -4,7 +4,13 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 
 ## Day 1: Thursday, June 10th, 2021
 
-**All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.org/wiki/UTC%E2%88%9204:00) times.**
+```{note}
+All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.org/wiki/UTC%E2%88%9204:00) times.
+```
+
+```{note}
+Each session will have a primary facilitator (names in boldface) and a helper. If you have technical questions, please reach out to the helper first. 
+```
 
 | Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator(s)/Facilitator(s)  |
 | :---------------- | :------------------------------   | :----------------- | :----------------- |
@@ -21,9 +27,7 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 | 17:00 - 18:00  | [Oral Presentations 1](oral-talks/talk1.md) |      TBA          |   **Ted Pedersen**, Lucy Li |
 | 18:00 - 19:00  | [Keynote: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         TBA          |  **Varada Kolhatkar**, David Jurgens  |
 
-```{note}
-Each session will have a primary facilitator (names in boldface) and a helper. If you have technical questions, please reach out to the helper first. 
-```
+
 
 ## Day 2: Friday, June 11th, 2021
 
