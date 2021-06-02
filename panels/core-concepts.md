@@ -3,16 +3,18 @@
 - **Day 1: June 10th from 12:00 to 13:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom link]()
 
-When we design NLP courses in different contexts, many of us struggle with at least some of the following points.   
+When we design NLP courses in different contexts, many of us struggle with what topics/models/tasks to include or exclude in the given context. For example, 
 
-- What models, tasks, applications should we include or exclude from the course? For example: 
-    - Should we teach hidden Markov models or automatic speech recognition in an introductory NLP course? 
-    - Is it OK to skip semantic parsing from an introductory NLP course? 
-    - Should we skip details of LSTMs and focus more on transformer-based architectures? 
-- How do we balance theory vs practice? How much detail is appropriate in the given context? For example, 
-    - Do we go into the details of Gibbs sampling when teaching Latent Dirichlet Allocation for topic modeling? 
-    - Is it more useful to spend more time on different practical aspects such as hyperparameters of the model or evaluation and interpretation of the topics given by the model?
-    - How much time should we spend on teaching LSTMs vs showing how to implement them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
+- Should we teach hidden Markov models or automatic speech recognition in an introductory NLP course targeted towards linguistics majors? 
+- Is it OK to skip semantic parsing from an introductory NLP course targeted towards computer science majors? 
+- Should we skip details of LSTMs and focus more on transformer-based architectures in introductory NLP courses? 
+
+We also struggle with how to balance theory vs practice? How much detail is appropriate in the given context? For example, 
+
+- Should we go into the details of Gibbs sampling when teaching Latent Dirichlet Allocation for topic modeling to non-computer science majors? Or is it more useful to spend more time on different practical aspects such as hyperparameters of the model or evaluation and interpretation of the topics given by the model? 
+- How much time should we spend on teaching LSTMs vs showing how to implement them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
+
+
     
 **We would like to address some of your questions during the panel discussion. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit?usp=sharing).**   
     
