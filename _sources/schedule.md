@@ -6,30 +6,35 @@ Welcome to the Fifth Workshop on Teaching NLP. This is a two-day workshop. It is
 
 **All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.org/wiki/UTC%E2%88%9204:00) times.**
 
-| Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator     |
+| Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator(s)/Facilitator(s)  |
 | :---------------- | :------------------------------   | :----------------- | :----------------- |
-| [10:00 - 10:15](https://dateful.com/eventlink/4564887570) | [Welcome and Workshop Overview](introduction.md)     |         TBA            | TBA  |
-| 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|         TBA            | TBA | 
-| 10:45 - 11:45 | [Poster Session 1](posters/poster1.md)                  |         TBA            | TBA | 
-| 11:45 - 12:00 | Refreshment Break                 |                        |                     | 
-| 12:00 - 13:00  | [Panel 1: What Should We Be Teaching?](panels/core-concepts.md)    |         TBA |  TBA |
-| 13:00 - 14:00  | Meal Break                              |            |                     |  |
-| 14:00 - 15:00  | [Participatory Event 2: Panel 1 Follow-up](activities/core-topics.md)     |         TBA            |  TBA |
-| 15:00 - 16:00  | [Poster Session 2](posters/poster2.md)   |         TBA            | TBA |
-| 16:00 - 16:45  | [Participatory Event 3: Continuation of Ice Breaker and Social Time](activities/ice-breaker.md)  |         TBA            |     TBA                |
-| 16:45 - 17:00  | Refreshment Break  |                     |                     |
-| 17:00 - 18:00  | [Oral Presentations 1](oral-talks/talk1.md) |      TBA          |   TBA |
-| 18:00 - 19:00  | [Keynote: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         TBA          |  TBA  |
+| [10:00 - 10:15](https://dateful.com/eventlink/4564887570) | [Welcome and Workshop Overview](introduction.md)     |         TBA            | **Varada Kolhatkar**, Ted Pedersen |
+| 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|         TBA            | **Margot Mieskes**, Varada Kolhatkar | 
+| 10:45 - 11:45 | [Poster Session 1](posters/poster1.md)                  |         TBA            | **Ted Pedersen** | 
+| 11:45 - 12:00 | **Refreshment Break**                 |                        |                     | 
+| 12:00 - 13:00  | [Panel 1: What Should We Be Teaching?](panels/core-concepts.md)    |         TBA |  **Varada Kolhatkar**, Lucy Li |
+| 13:00 - 14:00  | **Meal Break**                              |            |                     |  |
+| 14:00 - 15:00  | [Participatory Event 2: Panel 1 Follow-up](activities/core-topics.md)     |         TBA            |  **Varada Kolhatkar**, Margot Mieskes |
+| 15:00 - 16:00  | [Poster Session 2](posters/poster2.md)   |         TBA            | **Lucy Li** |
+| 16:00 - 16:45  | [Participatory Event 3: TBA](activities/ice-breaker.md)  |         TBA            |  **David Jurgens**, Margot Mieskes |
+| 16:45 - 17:00  | **Refreshment Break**  |                     |                     |
+| 17:00 - 18:00  | [Oral Presentations 1](oral-talks/talk1.md) |      TBA          |   **Ted Pedersen**, Lucy Li |
+| 18:00 - 19:00  | [Keynote: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         TBA          |  **Varada Kolhatkar**, David Jurgens  |
 
+```{note}
+Each session will have a primary facilitator (names in boldface) and a helper. If you have technical questions, please reach out to the helper first. 
+```
 
 ## Day 2: Friday, June 11th, 2021
 
-| Time              |     Session                         |  How to connect?       | Moderator     |
+| Time              |     Session                         |  How to connect?       | Moderator(s)/Facilitator(s)     |
 | :---------------- | :------------------------------ | :----------------- | :----------------- |
-| 10:00 - 11:00 |    [Oral Presentation 2](oral-talks/talk2.md) |         TBA            |   TBA                  |  |
-| 11:00 - 12:00 |  [Panel: What Does Industry Need?](panels/industry.md) |         TBA  | TBA  |
-| 12:00 - 13:00 |  [Participatory Event 4](activities/industry-panel-follow-up.md) |         TBA            | TBA |
-| 13:00 - 14:00  |    Meal Break                              |                        |                     |  | 
-| 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         TBA  | TBA  |
-| 15:00 - 16:00  |    [Participatory Event 5](activities/feedback.md)          |         TBA            |   TBA |
-| 16:00 - 16:15   |   Closing Remarks              |         TBA            |     TBA |
+| 10:00 - 11:00 |    [Oral Presentation 2](oral-talks/talk2.md) |         TBA            |   **Ted Pedersen**, Margot Mieskes                  |  |
+| 11:00 - 12:00 |  [Panel: What Does Industry Need?](panels/industry.md) |         TBA  | **David Jurgens**, Lucy Li  |
+| 12:00 - 13:00 |  [Participatory Event 4](activities/industry-panel-follow-up.md) |         TBA            | **Lucy Li**, Ted Pedersen |
+| 13:00 - 14:00  |    **Meal Break**                              |                        |                     |  | 
+| 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         TBA  | **David Jurgens**, Varada Kolhatkar  |
+| 15:00 - 16:00  |    [Participatory Event 5](activities/feedback.md)          |         TBA            |   **Ted Pedersen**, Margot Mieskes |
+| 16:00 - 16:15   |   Closing Remarks              |         TBA            |     **Ted Pedersen** |
+
+
