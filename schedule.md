@@ -7,7 +7,7 @@ All times below are [UTC-04:00 or Eastern Time Zone (ET)](https://en.wikipedia.o
 ```
 
 ```{note}
-Each session will have a primary facilitator (names in boldface) and a helper. If you have technical questions, please reach out to the helper first. 
+Each session will have a primary facilitator (names in boldface) and a helper. If you are facing technical issues, please reach out to the helper first. 
 ```
 
 ## Day 1: Thursday, June 10th, 2021
