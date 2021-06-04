@@ -1,5 +1,5 @@
 # Contact us
-
+<a href="mailto:teaching-nlp-organizers@googlegroups.com">teaching-nlp-organizers@googlegroups.com</a></p>
 - **Email**: teaching-nlp-organizers@googlegroups.com 
 - **teachingNLP Slack workspace**: [TeachingNLP@NAACL2021](https://join.slack.com/t/teachingnlpnaacl2021/shared_invite/zt-qnz8g51h-4PraL_3ISI4vq0kDTwKZ7g)
 - **YouTube channel**: [https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/about](https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/about)
