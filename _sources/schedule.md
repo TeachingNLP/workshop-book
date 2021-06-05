@@ -14,9 +14,9 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 
 | Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator(s)/Facilitator(s)  |
 | :---------------- | :------------------------------   | :----------------- | :----------------- |
-| [10:00 - 10:15](https://dateful.com/eventlink/4564887570) | [Welcome and Workshop Overview](introduction.md)     |         TBA            | **Varada Kolhatkar**, Ted Pedersen |
-| 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|         TBA            | **Margot Mieskes**, Varada Kolhatkar | 
-| 10:45 - 11:45 | [Poster Session 1](posters/poster1.md)                  |         TBA            | **Ted Pedersen** | 
+| [10:00 - 10:15](https://dateful.com/eventlink/4564887570) | [Welcome and Workshop Overview](introduction.md)     |         [Zoom link via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             | **Varada Kolhatkar**, Ted Pedersen |
+| 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|        [Same Zoom link via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            | **Margot Mieskes**, Varada Kolhatkar | 
+| 10:45 - 11:45 | [Poster Session 1](posters/poster1.md)                  |                     | **Ted Pedersen** | 
 | 11:45 - 12:00 | **Refreshment Break**                 |                        |                     | 
 | 12:00 - 13:00  | [Panel 1: What Should We Be Teaching?](panels/core-concepts.md)    |         TBA |  **Varada Kolhatkar**, Lucy Li |
 | 13:00 - 14:00  | **Meal Break**                              |            |                     |  |
