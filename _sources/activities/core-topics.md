@@ -1,7 +1,8 @@
 # Which topics to teach in what context? 
 
+- **Participatory Event 2**
 - **Day 1: June 10th from 14:00 to 15:00 UTC-04:00 or ET**
-- **How to connect:** [Zoom link]()
+- **How to connect:** [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
 
 ## Related pre-workshop activity
 
