@@ -3,7 +3,7 @@
 - **Keynote 2**
 - **Day 2: June 11th from 14:00 to 15:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
-- [**Questions Google document**](https://docs.google.com/document/d/1y6AhctclG7fwSCuvx0SRRaSICPtsW4VFOW-8vK4Gs00/edit?usp=sharing)
+- [**Questions Google document**](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit#heading=h.xh8e8320dpxm)
 
 ## Speaker: Jason Eisner
 
