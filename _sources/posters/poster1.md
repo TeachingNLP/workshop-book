@@ -1,4 +1,4 @@
-# Poster Session 1
+# Poster session 1
 
 - **Day 1: June 10th, 2021, 10:45 to 11:45 UTC-04:00 or ET**
 - **How to connect:** [Gather.Town via Underline](https://underline.io/events/122/lounge)

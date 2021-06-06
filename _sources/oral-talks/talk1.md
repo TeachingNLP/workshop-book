@@ -1,4 +1,4 @@
-# Oral Presentations 1
+# Oral presentations 1
 
 - **Day 1: June 10th, 2021, 17:00 to 18:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
