@@ -1,5 +1,6 @@
 # Poster Session 2
-**Day 1: June 10th, 2021, 15:00 to 16:00 UTC-04:00 or ET**
+- **Day 1: June 10th, 2021, 15:00 to 16:00 UTC-04:00 or ET**
+- **How to connect:** [Gather.Town via Underline](https://underline.io/events/122/lounge)
 
 ## Long papers: Courses and curricula 
 
