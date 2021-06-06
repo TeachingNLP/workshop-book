@@ -59,5 +59,10 @@
       - file: teaching_material/submission35      
       - file: teaching_material/submission36
       - file: teaching_material/submission37
-
+      
+- part: Resources
+  chapters:    
+  - file: resources/nlp-courses
+  - file: resources/nlp-book
+  - file: resources/nlp-education-papers
 
