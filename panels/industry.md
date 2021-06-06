@@ -3,7 +3,7 @@
 - **Panel 2**
 - **Day 1: June 11th from 11:00 to 12:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
-- [**Questions Google document**](https://docs.google.com/document/d/19t9CZBbOQUnbuTj9VsTv_bCsbopvRaIoz19BQg8d1A0/edit?usp=sharing)
+- [**Questions Google document**](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit#heading=h.lyabqqmampv5)
 
 ## Panelists
 |               |                               |
