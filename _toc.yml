@@ -4,7 +4,8 @@
 - part: Things you should know
   chapters:    
   - file: schedule
-  - file: contact  
+  - file: contact
+  - file: resources
 
 - part: Keynotes
   chapters:
@@ -59,5 +60,5 @@
       - file: teaching_material/submission35      
       - file: teaching_material/submission36
       - file: teaching_material/submission37
-- file: resources
+
 
