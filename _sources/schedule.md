@@ -25,7 +25,7 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 | 16:00 - 16:45  | [Participatory Event 3: TBA](activities/ice-breaker.md)  |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             |  **David Jurgens**, Margot Mieskes |
 | 16:45 - 17:00  | **Refreshment Break**  |                     |                     |
 | 17:00 - 18:00  | [Oral Presentations 1](oral-talks/talk1.md) |      [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)           |   **Ted Pedersen**, Lucy Li |
-| 18:00 - 19:00  | [Keynote: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)           |  **Varada Kolhatkar**, David Jurgens  |
+| 18:00 - 19:00  | [Keynote 1: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)           |  **Varada Kolhatkar**, David Jurgens  |
 
 
 
@@ -34,10 +34,10 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 | Time              |     Session                         |  How to connect?       | Moderator(s)/Facilitator(s)     |
 | :---------------- | :------------------------------ | :----------------- | :----------------- |
 | 10:00 - 11:00 |    [Oral Presentation 2](oral-talks/talk2.md) |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            |   **Ted Pedersen**, Margot Mieskes                  |  |
-| 11:00 - 12:00 |  [Panel: What Does Industry Need?](panels/industry.md) |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)  | **David Jurgens**, Lucy Li  |
+| 11:00 - 12:00 |  [Panel 2: What Does Industry Need?](panels/industry.md) |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)  | **David Jurgens**, Lucy Li  |
 | 12:00 - 13:00 |  [Participatory Event 4: Preparing students for beyond the classroom](activities/industry-panel-follow-up.md) |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            | **Lucy Li**, Ted Pedersen |
 | 13:00 - 14:00  |    **Meal Break**                              |                        |                     |  | 
-| 14:00 - 15:00  |  [Keynote Address](keynotes/jason_eisner.md)   |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)  | **David Jurgens**, Varada Kolhatkar  |
+| 14:00 - 15:00  |  [Keynote 2](keynotes/jason_eisner.md)   |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)  | **David Jurgens**, Varada Kolhatkar  |
 | 15:00 - 16:00  |    [Participatory Event 5: Keynote follow up and feedback](activities/feedback.md)          |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            |  **Margot Mieskes**, Ted Pedersen |
 | 16:00 - 16:15   |   Closing Remarks              |         [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            |     **Ted Pedersen** |
 

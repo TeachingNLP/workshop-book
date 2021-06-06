@@ -1,7 +1,7 @@
 # What do we teach in NLP courses?
 
 - **Day 1: June 10th from 12:00 to 13:00 UTC-04:00 or ET**
-- **How to connect:** [Zoom link]()
+- **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
 
 When we design NLP courses in different contexts, many of us struggle with what topics/models/tasks to include or exclude in the given context. For example, 
 
