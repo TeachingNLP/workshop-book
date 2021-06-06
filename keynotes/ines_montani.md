@@ -1,5 +1,9 @@
 # What does "real-world NLP" look like and how can students get ready for it?
 
+- **Keynote 1**
+- **Day 1: June 10th from 18:00 to 19:00 UTC-04:00 or ET**
+- **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
+
 Working on natural language processing for real-world applications requires more than just developing model implementations and evaluating them on existing datasets, or memorizing various library APIs. Often, what's needed is an entirely different mindset: How can I break down complex business problems into machine learning components? How do I design my data to make the problem easier and get human experts involved? And how do I incorporate linguistic insights to find approaches that are more likely to succeed? In this talk, I'll share some lessons we've learned from commercial use cases of our software, `spaCy` and `Prodigy`, and suggest ways we can teach applied NLP thinking and ship more successful projects.
 
 ## Speaker: Ines Montani
