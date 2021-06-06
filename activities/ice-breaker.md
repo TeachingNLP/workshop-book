@@ -1,7 +1,8 @@
 # Ice breaker 
 
+- **Participatory Event 1**
 - **Day 1: June 10th from 10:15 to 10:45 UTC-04:00 or ET**
-- **How to connect:** [Zoom link]()
+- **How to connect:** [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
 
 This activity has three components.
 - Individual component (~10 mins)
@@ -10,7 +11,7 @@ This activity has three components.
 
 ## Individual component
 
-Fill in [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdT24T05icxoehwusGWLPGqM1hCCyqecwK7LTIvDaRcoXENtA/viewform?usp=sf_link) on your own.  
+Fill in [this Google form](https://forms.gle/xFjrMYpqckhHrmKq9) on your own.  
 
 ## Group component 
 
