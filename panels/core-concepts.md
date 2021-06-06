@@ -2,6 +2,7 @@
 
 - **Day 1: June 10th from 12:00 to 13:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
+- **We would like to address some of your questions during the panel discussion. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit?usp=sharing).**   
 
 When we design NLP courses in different contexts, many of us struggle with what topics/models/tasks to include or exclude in the given context. For example, 
 
@@ -16,7 +17,6 @@ We also struggle with how to balance theory vs practice? How much detail is appr
 
 
     
-**We would like to address some of your questions during the panel discussion. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit?usp=sharing).**   
     
 ## Panelists
 |               |                               |

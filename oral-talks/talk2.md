@@ -1,8 +1,10 @@
 # Oral Presentations 2
 
-## Long papers: Courses and curricula 
+- **Day 2: June 11th, 2021, 10:00 to 11:00 (UTC-04:00 or ET)**
+- **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
+- [**Questions Google document**](https://docs.google.com/document/d/1ANYJx0tYr-ZRRAOR7Xx8vyzjUMt3spebzXKCRTBkLTY/edit?usp=sharing)
 
-**Day 2: June 11th, 2021, 10:00 to 11:00 (UTC-04:00 or ET)**
+## Long papers: Courses and curricula 
 
 | Time (UTC-04:00) | Title              |     Authors                          |
 | :---------------- | :---------------- | :------------------------------   | 
