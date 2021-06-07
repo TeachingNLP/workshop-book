@@ -12,7 +12,7 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 
 ## Day 1: Thursday, June 10th, 2021
 
-| Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Moderator(s)/Facilitator(s)  |
+| Time (UTC-04:00 or ET)              |     Session                          |  How to connect?       | Facilitator/Helper  |
 | :---------------- | :------------------------------   | :----------------- | :----------------- |
 | [10:00 - 10:15](https://dateful.com/eventlink/4564887570) | [Welcome and Workshop Overview](introduction.md)     |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             | **Varada Kolhatkar**, Ted Pedersen |
 | 10:15 - 10:45 | [Participatory Event 1: Ice Breaker](activities/ice-breaker.md)|        [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            | **Margot Mieskes**, Varada Kolhatkar | 
@@ -31,7 +31,7 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 
 ## Day 2: Friday, June 11th, 2021
 
-| Time              |     Session                         |  How to connect?       | Moderator(s)/Facilitator(s)     |
+| Time              |     Session                         |  How to connect?       | Facilitator/Helper     |
 | :---------------- | :------------------------------ | :----------------- | :----------------- |
 | 10:00 - 11:00 |    [Oral Presentation 2](oral-talks/talk2.md) |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            |   **Ted Pedersen**, Margot Mieskes                  |  |
 | 11:00 - 12:00 |  [Panel 2: What Does Industry Need?](panels/industry.md) |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)  | **David Jurgens**, Lucy Li  |
