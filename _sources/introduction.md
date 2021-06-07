@@ -44,6 +44,16 @@ By the end of of the workshop we hope to achieve the following high level goals.
 - 6 oral presentations
 - 20 posters
 
+## More information on the accepted papers
+
+- 13 long papers on NLP pedagogy and courses & curriculum 
+- 13 short papers with teaching materials
+    - 6 on courses & curriculum
+    - 7 on tools & assignments
+- Demographics
+    - 13 accepted submissions are from Europe, 
+    - 13 from north America (12 USA, 1 Canada)
+
 ## Useful links
 
 - [Proceedings of the Fifth Workshop on Teaching NLP](https://www.aclweb.org/anthology/volumes/2021.teachingnlp-1/)
