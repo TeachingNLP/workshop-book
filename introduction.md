@@ -51,7 +51,7 @@ By the end of of the workshop we hope to achieve the following high level goals.
     - 6 on courses & curriculum
     - 7 on tools & assignments
 - Demographics
-    - 13 accepted submissions are from Europe, 
+    - 13 accepted submissions are from Europe
     - 13 from north America (12 USA, 1 Canada)
 
 ## Useful links
