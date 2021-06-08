@@ -18,6 +18,7 @@
 
 - part: Participatory activities
   chapters:
+  - file: activities/pre-workshop-activity.md
   - file: activities/ice-breaker.md  
   - file: activities/core-topics.md
   - file: activities/ethics-in-nlp.md        
