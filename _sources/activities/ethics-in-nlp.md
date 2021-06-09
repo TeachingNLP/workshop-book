@@ -1,4 +1,4 @@
-# Ethics in NLP courses
+# Ethics in the NLP Curriculum
 
 - **Participatory Event 3**
 - **Day 1: June 10th from 16:00 to 16:45 UTC-04:00 or ET**
