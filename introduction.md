@@ -1,6 +1,6 @@
 <img src="img/photo-NAACL2021.png" alt="NAACL" class="bg-primary"/>
 
-# Welcome [video](https://www.youtube.com/watch?v=hTe1tXdPfe4)
+# Welcome [[video](https://www.youtube.com/watch?v=hTe1tXdPfe4)]
 
 Welcome to the Fifth Workshop on Teaching NLP! 
 
