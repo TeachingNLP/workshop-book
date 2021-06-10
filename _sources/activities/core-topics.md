@@ -29,6 +29,3 @@ Go to this [Google doc](https://docs.google.com/document/d/1h_X3oZk6ZPNewlGzu6u_
 
 <hr>
 
-## Hints/Help to get you started
-
-TBA
