@@ -22,7 +22,7 @@ Each session will have a primary facilitator (names in boldface) and a helper. I
 | 13:00 - 14:00  | **Meal Break**                              |            |                     |  |
 | 14:00 - 15:00  | [Participatory Event 2: Panel 1 Follow-up](activities/core-topics.md)     |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             |  **Varada Kolhatkar**, Margot Mieskes |
 | 15:00 - 16:00  | [Poster Session 2](posters/poster2.md)   |         [Gather.Town via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)            | **Lucy Li** |
-| 16:00 - 16:45  | [Participatory Event 3: TBA](activities/ethics-in-nlp.md)  |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             |  **David Jurgens**, Margot Mieskes |
+| 16:00 - 16:45  | [Participatory Event 3: Ethics in the NLP Curriculum](activities/ethics-in-nlp.md)  |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)             |  **David Jurgens**, Margot Mieskes |
 | 16:45 - 17:00  | **Refreshment Break**  |                     |                     |
 | 17:00 - 18:00  | [Oral Presentations 1](oral-talks/talk1.md) |      [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)           |   **Ted Pedersen**, Lucy Li |
 | 18:00 - 19:00  | [Keynote 1: What does "real-world NLP" look like and how can students get ready for it?](keynotes/ines_montani.md)   |         [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)           |  **Varada Kolhatkar**, David Jurgens  |
