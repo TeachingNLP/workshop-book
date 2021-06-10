@@ -2,7 +2,7 @@
 
 ## NLP courses for non-CS majors 
 - [From Languages to Information](http://web.stanford.edu/class/cs124/), Stanford University 
-- [Working with Text in Python and Natural Language Processing for Linguists](https://applied-language-technology.readthedocs.io/en/latest/), University of Helsinki
+- [Applied Language Technology](https://applied-language-technology.readthedocs.io/en/latest/), University of Helsinki
 
 ## Introductory NLP courses
 - [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/), Stanford University
