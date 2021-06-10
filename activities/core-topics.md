@@ -4,6 +4,7 @@
 - **Day 1: June 10th from 14:00 to 15:00 UTC-04:00 or ET**
 - **How to connect:** [Zoom  via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
 
+
 ## Related pre-workshop activity
 
 If you've not already done it, please fill out this [Google form](https://forms.gle/kqZLVpkBAdp7wrA29) when you get a chance. 
@@ -28,6 +29,3 @@ Go to this [Google doc](https://docs.google.com/document/d/1h_X3oZk6ZPNewlGzu6u_
 
 <hr>
 
-## Hints/Help to get you started
-
-TBA
