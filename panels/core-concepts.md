@@ -4,19 +4,17 @@
 - **How to connect:** [Zoom via Underline](https://underline.io/events/122/sessions?eventSessionId=4302)
 - **We would like to address some of your questions during the panel discussion. Please write your questions on this topic in this [Google document](https://docs.google.com/document/d/1ZS8BhrAJHGa-RB5e8IHqSGsR6GAEpEXv552u9kZG1g0/edit#heading=h.6zc9ik4syd0b).**   
 
-When we design NLP courses in different contexts, many of us struggle with what topics/models/tasks to include or exclude in the given context. For example, 
+NLP is a rapidly growing field which brings unique challenges to the educators. Many of us grapple with at least some of the following questions.   
 
-- Should we teach hidden Markov models or automatic speech recognition in an introductory NLP course targeted towards linguistics majors? 
-- Is it OK to skip semantic parsing from an introductory NLP course targeted towards computer science majors? 
-- Should we skip details of LSTMs and focus more on transformer-based architectures in introductory NLP courses? 
+- How much time should we spend on classical NLP vs. deep learning NLP in an introductory NLP course?
+- What's the role of linguistics in NLP courses today?
+- What should be the prerequisites for introductory NLP courses? Should we presuppose supervised and unsupervised machine learning , deep learning, and some basic linguistics knowledge? 
+- Most of the NLP courses teach different NLP models, NLP pipeline tasks, applications, evaluation, and tools. What is the most constructive way to weave these things together? 
+- NLP is changing fast and the skills we teach today risk being outdated to the students in a matter of years. How do we prepare student for this constant change in the field? 
+- How do we effectively teach ethical and responsible use of NLP models?
+- What topics should we save for advanced NLP course?  
 
-We also struggle with how to balance theory vs practice? How much detail is appropriate in the given context? For example, 
-
-- Should we go into the details of Gibbs sampling when teaching Latent Dirichlet Allocation for topic modeling to non-computer science majors? Or is it more useful to spend more time on different practical aspects such as hyperparameters of the model or evaluation and interpretation of the topics given by the model? 
-- How much time should we spend on teaching LSTMs vs showing how to implement them for different tasks using tools such as `PyTorch` or `TensorFlow`? 
-
-
-    
+In this panel discussion we'll hear thoughts of our amazing panelists on some of the above questions. 
     
 ## Panelists
 |               |                               |
