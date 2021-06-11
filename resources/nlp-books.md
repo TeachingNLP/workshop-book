@@ -7,3 +7,4 @@
 - [Introduction to Natural Language Processing](https://mitpress.mit.edu/books/introduction-natural-language-processing) by Jacob Eisenstein, with [notes and slides](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 - [Neural Network Methods for Natural Language Processing Synthesis Lectures on Human Language Technologies](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037), Yoav Goldberg
 - [Text Analysis in Python for Social Scientists](https://www.cambridge.org/core/elements/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3) by Dirk Hovy, with [code](https://github.com/dirkhovy/text_analysis_for_social_science)
+- [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) by Jacob Eisenstein 

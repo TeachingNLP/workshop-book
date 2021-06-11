@@ -10,6 +10,7 @@
 - [Deep Natural Language Processing](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), University of Oxford
 - [Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/17wi/), University of Washington
 - [Applied Natural Language Processing](https://people.ischool.berkeley.edu/~dbamman/info256.html), University of California Berkeley
+- [Boise State NLP](https://trello.com/b/mRcVsOvI/boise-state-nlp-spring-2021), 
 
 ## Advanced NLP courses (for MS and PhD students)
 - [Advanced Methods in Natural Language Processing](https://www.cs.tau.ac.il/~joberant/teaching/nlp_spring_2019/index.html), Tel-Aviv University
